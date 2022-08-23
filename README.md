@@ -30,4 +30,6 @@ I am an Electrical and Computer Engineering graduate from the National Technical
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=antonypap&count_private=true&show_icons=true&theme=dark) -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonypap&layout=compact&theme=dark&hide=Processing) -->
+
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=antonypap&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)
 </div>
