@@ -22,3 +22,17 @@
 
 ### :man_technologist: About Me:
 
+---
+
+### :fire: My Stats:
+<div align="center">
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antonypap&theme=dark&hide_border=true)
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=antonypap&count_private=true&show_icons=true&theme=dark) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonypap&layout=compact&theme=dark&hide=Processing)
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=gotham)
+
+</div>
