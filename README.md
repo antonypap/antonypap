@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-I am an Electrical and Computer Engineering graduate from the National Technical University of Athens and currently interested in research in the field of Machine Learning and Computer Vision. 🤖
+ECE graduate from NTUA, currently pursuing a MSc in Applied Machine Learning at Imperial College London and interested in research in the field of Machine Learning and Computer Vision. 🤖
 </p>
 
 <div id="badges" align="center">
