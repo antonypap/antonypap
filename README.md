@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-ECE graduate from NTUA, currently pursuing a MSc in Applied Machine Learning at Imperial College London and interested in research in the field of Machine Learning and Computer Vision. 🤖
+ECE graduate from NTUA with Software Engineering experience in the industry, currently pursuing an MSc in Applied Machine Learning at Imperial College London and interested in research in the fields of Computer Vision and Machine Learning Safety. 🤖
 </p>
 
 <div id="badges" align="center">
