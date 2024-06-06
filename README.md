@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-ECE graduate from NTUA with Software Engineering experience in the industry, currently pursuing an MSc in Applied Machine Learning at Imperial College London and interested in research in the fields of Computer Vision and Machine Learning Safety. 🤖
+MSc in Applied Machine Learning from Imperial College London, with a strong foundation in Electrical and Computer Engineering from NTUA. Experienced Software and Machine Learning Engineer with a demonstrated history of optimizing ML models and deploying advanced AI applications. Passionate about Machine Learning Safety, Computer Vision, Natural Language Processing, and developing innovative data-driven solutions. 🚀
 </p>
 
 <div id="badges" align="center">
