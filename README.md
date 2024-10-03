@@ -1,9 +1,11 @@
 <div id="header" align="center">
-    <h1>Hi, I'm Antonis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+    <h1>Hi there, I'm Antonis! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 <p align="center">
-MSc in Applied Machine Learning from Imperial College London, with a strong foundation in Electrical and Computer Engineering from NTUA. Experienced Software and Machine Learning Engineer with a demonstrated history of optimizing ML models and deploying advanced AI applications. Passionate about Machine Learning Safety, Computer Vision, Natural Language Processing, and developing innovative data-driven solutions. 🚀
+Software and Machine Learning Engineer with experience in crafting scalable, high-performance systems. I hold an MSc in Applied Machine Learning from Imperial College London and a solid foundation in Electrical and Computer Engineering from NTUA.
+
+I specialise in end-to-end software engineering, from optimising ML models to deploying cloud-native applications. My expertise includes cloud infrastructure (AWS), distributed systems, and building robust, low-latency architectures. Passionate about Machine Learning Safety, Computer Vision, and NLP, I'm driven by the challenge of creating impactful, data-driven solutions. 🚀
 </p>
 
 <div id="badges" align="center">
